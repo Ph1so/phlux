@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "phlux",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "Check for new internships from all your favorite companies with a single click.",
   "permissions": ["storage", "scripting"],
   "action": {
