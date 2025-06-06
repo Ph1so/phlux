@@ -5,7 +5,7 @@ Google,https://www.google.com/about/careers/applications/jobs/results/?src=Onlin
 Nvidia,https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/jobs?workerSubType=0c40f6bd1d8f10adf6dae42e46d44a17&locationHierarchy1=2fcb99c455831013ea52fb338f2932d8,.css-19uc56f
 Meta,https://www.metacareers.com/jobs?sort_by_new=true&roles[0]=Internship,._6g3g.x10lme4x.x26uert.xngnso2.x117nqv4.x1mnlqng.x1e096f4 
 Netflix,https://explore.jobs.netflix.net/careers?domain=netflix.com&query=%22internship%22%20-intern&pid=790299250747&sort_by=relevance,.position-title.line-clamp.line-clamp-2
-AWS (not working right now),https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US&employment-type%5B%5D=Intern,a.header-module_mobile__Nl1un.header-module_title__9-W3R
+AWS (not working right now),https://amazon.jobs/content/en/teams/amazon-web-services/internships?country%5B%5D=US&employment-type%5B%5D=Intern,div h3 a
 Pinterest,https://www.pinterestcareers.com/jobs/?orderby=0&pagesize=20&page=1&radius=100&team=University,.stretched-link.js-view-job
 Amazon,https://amazon.jobs/en/search?offset=0&result_limit=10&sort=relevant&category%5B%5D=software-development&country%5B%5D=USA&distanceType=Mi&radius=24km&latitude=&longitude=&loc_group_id=&loc_query=&base_query=intern&city=&country=&region=&county=&query_options=&,.job-link
 ispace,https://jobs.lever.co/ispace-inc?commitment=Intern,.posting-title
@@ -44,5 +44,6 @@ MongoDB,https://www.mongodb.com/company/careers/students-and-graduates,.css-qq83
 Slack,https://slack.com/careers/type/intern,.job-listing__table-title
 Snowflake,https://careers.snowflake.com/us/en/search-results?sortBy=Most%20relevant,.job-title
 Splunk,https://www.splunk.com/en_us/careers/search-jobs.html?page=1&type=Intern,.job-title.splunk2-h5
-Amazon Robotics (not working right now),https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern,.header-module_mobile__Nl1un.header-module_title__9-W3R
+Amazon Robotics (not working right now),https://www.amazon.jobs/content/en/teams/ftr/amazon-robotics?country%5B%5D=US&employment-type%5B%5D=Intern,div h3 a
 AMD,https://careers.amd.com/careers-home/jobs?page=1&categories=Student%20%2F%20Intern%20%2F%20Temp&limit=100&tags1=No&country=United%20States,.job-title
+Tesla,https://www.tesla.com/careers/search/?type=3&department=ai-robotics&region=5&site=US,li div div a
